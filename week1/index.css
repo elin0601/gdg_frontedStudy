@@ -1,0 +1,20 @@
+#main {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#major { 
+    color :rgb(9, 98, 199);
+    text-align: center; 
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+#input {
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+}
